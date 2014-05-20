@@ -23,8 +23,8 @@
 
 #include <SoftwareSerial.h>
 #include <PString.h>
-#include <CANOPNR_MCP2515.h>
-#include <MCP2515_defs.h>
+#include "CANOPNR_MCP2515.h"
+#include "MCP2515_defs.h"
 #include <SPI.h>
 #include <SD.h>
 #include <stdio.h>
